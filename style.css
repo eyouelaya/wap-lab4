@@ -1,0 +1,21 @@
+div.login {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 1px solid grey;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+small {
+    font-size: 12px;
+}
+
+.nav-custom-color {
+    background-color: #3BA9E9;
+}
+
+.custom-header{
+    font-size: 27px;
+    margin-left: 150px;
+}
